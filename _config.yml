@@ -1,3 +1,16 @@
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.718638
 color:
   saturation: 0.7193649
   brandStrength: 0.2057949
@@ -9,18 +22,5 @@ color:
     - '#777777'
     - '#FBC530'
   lightness: 0.3335178
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-layout_spectrum: 0.3996416
-typography_spectrum: 0.718638
+layout_spectrum: 0.5035842
 name: Comunic
