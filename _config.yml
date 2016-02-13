@@ -1,0 +1,14 @@
+layout_spectrum: 0.3996416
+color:
+  saturation: 0.7193649
+  lightness: 0.3335178
+  brandStrength: 0.2057949
+  brandColors:
+    - '#FFFFFF'
+    - '#1F1F1F'
+    - '#036477'
+    - '#777777'
+    - '#FBC530'
+  rhythmicContrast: 0.7161093
+typography_spectrum: 0.718638
+name: Comunic
