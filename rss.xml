@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Comunic]]></title>
+        <description><![CDATA[Comunic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 13 Feb 2016 11:43:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A la fi la boira es disipa...]]></title>
+            <description><![CDATA[<article><h1>A la fi la boira es disipa...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf904ab-828b-460c-bf0d-1d95c8e8682b.png"></article>]]></description>
+            <link>undefineda-la-fi-la-boira-es-disipa/index.html</link>
+            <guid isPermaLink="false">c8796a9e-cb29-435f-aea2-b152afe4e032</guid>
+            <pubDate>Sat, 13 Feb 2016 11:42:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
