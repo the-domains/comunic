@@ -1,5 +1,8 @@
+name: Comunic
+favicon: null
+layout_spectrum: 0.74785
+typography_spectrum: 0.1021505
 title: Prova de la pàgina web
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7193649
-  brandStrength: 1
-  lightness: 0.3335178
   brandColors:
     - '#FFFFFF'
     - '#1F1F1F'
     - '#036477'
     - '#777777'
     - '#FBC530'
+  brandStrength: 1
+  lightness: 0.3335178
+  saturation: 0.7193649
   rhythmicContrast: 0.7161093
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Comunic
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.1021505
-layout_spectrum: 0
+purpose: []
